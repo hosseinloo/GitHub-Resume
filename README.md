@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hosseinloo
+- 👋 Hi, I’m @hosseinloo a front-end developer
 - 👀 I’m interested in music , write code , video game , bascketball watch , web design , photography and travel
 - 🌱 I’m currently learning python and ...
 - 💞️ I’m looking to collaborate on front-end development and web design Ui/Ux
